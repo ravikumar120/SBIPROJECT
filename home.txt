@@ -1,0 +1,2 @@
+if ag>=18:
+print("you are eligible to vote")
